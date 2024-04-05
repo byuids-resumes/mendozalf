@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Luis Fernando Mendoza's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Luis Fernando Mendoza
+Business Intelligence, Data Analyst
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -12,78 +12,60 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
-<!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected April 2025`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
-
-
-## Related Experience
-
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Majoring in Business Analytics
+- Mainoring in Data Science
 
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`Jan 2024 - Present · 4 mos`
+__Data Analyst Intern__, Salt Lake City, UT
 
+• Conducted SQL queries in Databricks, resulting in comprehensive financial analysis across 500+ columns and 15 tables for church properties in the U.S. and Canada.
+• Implemented an Excel form with xlookups and lists, streamlining the collection of security code information for church properties and enhancing data accuracy.
+• Developed an online Microsoft Form to evaluate landscape quality for church properties nationwide, providing valuable insights for property management decisions.
+• Optimized PowerBI Power Query efficiency through strategic merges, transposing, filtering, and Dataflow sourcing, leading to faster data processing and improved reporting capabilities.
+• Enhanced code optimization in PowerQuery Advance Editor and experimented with compressing PowerBI Reports into .json files using Python, resulting in streamlined data management processes.
+• Developed and deployed a custom Microsoft Power App that successfully automated eight critical processes, resulting in significant time and resource savings.
+• Mastered the creation of advanced custom DAX columns in PowerBI reporting, enabling more accurate and insightful financial analysis.
+• Developed PowerBI reports to effectively communicate high-level financial and work order information to stakeholders across the U.S. and Canada, facilitating data-driven decision-making.
 
-`2023-2025`
-__Service Missionary__, South Africa
+`Apr 2023- Jan 2024`
+__System & Data Analyst__, Rexburg, ID
 
+• Experienced Data Analyst specializing in Power BI for dynamic dashboard creation. Proficient in DAX measures, bookmarks, drillthroughs, and other Power BI tools.
+• Developed and maintained Power BI performance reporting systems, delivering crucial insights to over 1000 daily customers.
+• Optimized 70% of all Power BI visuals for mobile view, ensuring seamless access to critical data on the go. Enhanced accessibility and usability of reports for stakeholders across different platforms.
+• Cut web incidents through CRM TeamDynamix Software rate by 12%, using technical, analytical, and communication skills to accurately identify user needs and provide effective solutions.
+
+`Oct 2018 - Oct 2019`
+__Operations Coordinator & Business Consultant__, Bogota, COL
+
+• Coordinated the opening of the company with the hub, the operational and legal system in 2 months.
+• Collaborated with the manager to Interview more than 100 job applicants in two weeks and hired 30.
+• Improved the financial system of more than 150 businesses in 6 months.
+• Managed a team of 15 financial analysts, driving improvements in the financial systems of over 1000 small companies in six months
+
+`Dec 2014 - Sep 2018`
+__Founder & Business Owner__, Bogota, COL
+
+• Managed the sales of more than 5,000 product units in 4 years, loyalty to more than 50 customers, and negotiated with big supermarkets.
+• Built company legally in 2 months, designed 3 innovative products, and got from the INVIMA the Sanitary Registration for Food and Beverage in 1 year.
+• Controlled business finances, made advertising, and supervised the factory´s staff for over 4 years.
+
+`Oct 2011- Oct 2013`
+__International Volunteer__, Puebla, MX
+
+• Maintained 80+ hour work week for two years, teaching Christian principles to hundreds of families and individuals.
+• Supervised, motivated, and trained 160 other missionaries in communication, conflict-resolution, and leadership skills
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: April 2024 -->
