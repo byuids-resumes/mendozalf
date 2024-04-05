@@ -24,47 +24,48 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ## Service and Work History
 
-`May 2018-September 2018`
-__Car Wash Associate for Epic Shine__, Meridian, ID
+`Jan 2024 - Present · 4 mos`
+__Data Analyst Intern__, Salt Lake City, UT
 
-- Worked with a team to give top of the line customer service.
-- Preformed janitorial services around the carwash.
-- Instructed people in the proper way to use an automated car wash.
+• Conducted SQL queries in Databricks, resulting in comprehensive financial analysis across 500+ columns and 15 tables for church properties in the U.S. and Canada.
+• Implemented an Excel form with xlookups and lists, streamlining the collection of security code information for church properties and enhancing data accuracy.
+• Developed an online Microsoft Form to evaluate landscape quality for church properties nationwide, providing valuable insights for property management decisions.
+• Optimized PowerBI Power Query efficiency through strategic merges, transposing, filtering, and Dataflow sourcing, leading to faster data processing and improved reporting capabilities.
+• Enhanced code optimization in PowerQuery Advance Editor and experimented with compressing PowerBI Reports into .json files using Python, resulting in streamlined data management processes.
+• Developed and deployed a custom Microsoft Power App that successfully automated eight critical processes, resulting in significant time and resource savings.
+• Mastered the creation of advanced custom DAX columns in PowerBI reporting, enabling more accurate and insightful financial analysis.
+• Developed PowerBI reports to effectively communicate high-level financial and work order information to stakeholders across the U.S. and Canada, facilitating data-driven decision-making.
 
-`2018-2020`
-__Religious Missionary__, Kansas
+`Apr 2023- Jan 2024`
+__System & Data Analyst__, Rexburg, ID
 
-- Studied rigorously from religious texts daily.
-- Taught lessons on religious topics as a team.
-- Attended trainings to become better missionaries.
+• Experienced Data Analyst specializing in Power BI for dynamic dashboard creation. Proficient in DAX measures, bookmarks, drillthroughs, and other Power BI tools.
+• Developed and maintained Power BI performance reporting systems, delivering crucial insights to over 1000 daily customers.
+• Optimized 70% of all Power BI visuals for mobile view, ensuring seamless access to critical data on the go. Enhanced accessibility and usability of reports for stakeholders across different platforms.
+• Cut web incidents through CRM TeamDynamix Software rate by 12%, using technical, analytical, and communication skills to accurately identify user needs and provide effective solutions.
 
-`April 2020-September 2020`
-__Warehouse Associate for Scentsy__, Meridian, ID
+`Oct 2018 - Oct 2019`
+__Operations Coordinator & Business Consultant__, Bogota, COL
 
-- Tasked with Moving, packing, shipping, and restocking merchandise.
-- Taught to put merchandise together.
+• Coordinated the opening of the company with the hub, the operational and legal system in 2 months.
+• Collaborated with the manager to Interview more than 100 job applicants in two weeks and hired 30.
+• Improved the financial system of more than 150 businesses in 6 months.
+• Managed a team of 15 financial analysts, driving improvements in the financial systems of over 1000 small companies in six months
 
-`April 2021-November 2021`
-__Security Guard for Amazon__, Meridian, ID
+`Dec 2014 - Sep 2018`
+__Founder & Business Owner__, Bogota, COL
 
-- Trained to identify threats to the facility, de-escalate potentially harmful situations, and observe and report suspicious activities to the proper authorities.
-- Patrolled the building every hour to regulate the environment and discourage mischief.
-- Trained to respond in emergency situations as an escort and administer CPR as needed.
+• Managed the sales of more than 5,000 product units in 4 years, loyalty to more than 50 customers, and negotiated with big supermarkets.
+• Built company legally in 2 months, designed 3 innovative products, and got from the INVIMA the Sanitary Registration for Food and Beverage in 1 year.
+• Controlled business finances, made advertising, and supervised the factory´s staff for over 4 years.
 
-`April 2023-June 2023`
-__Gas Station Clerk for Good 2 Go__, Rigby, ID
+`Oct 2011- Oct 2013`
+__International Volunteer__, Puebla, MX
 
-- Completed purchases for merchandise and/or gas.
-- Kept gas station and work area clean and tidy.
-- Preformed simple maintenance on machinery.
+• Maintained 80+ hour work week for two years, teaching Christian principles to hundreds of families and individuals.
+• Supervised, motivated, and trained 160 other missionaries in communication, conflict-resolution, and leadership skills
 
-`July 2023-Present Day`
-__Tailored Clothing Specialist for Dillards__, Idaho Falls, ID
-
-- Help customers find what they want and need through asking questions and giving suggestions.
-- Teach customers about the benefits of using a Dillards credit card and gude them through the application process.
-- Measure customers so they are getting the right fit for them in a variety of shirts, slacks, and suits.
 
 <!-- ### Footer
 
-Last updated: January 2024 -->
+Last updated: April 2024 -->
